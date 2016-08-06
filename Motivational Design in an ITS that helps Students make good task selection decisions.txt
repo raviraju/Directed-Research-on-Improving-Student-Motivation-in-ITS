@@ -1,0 +1,45 @@
+current work uses a user-centered design approach to extend an ITS for equation
+solving, Lynnette, so the new designs may motivate and help students learn
+to apply a general, transferable rule for effective problem selection, namely,
+to select problem types that are not fully mastered (“Mastery Rule”).
+
+found that the presence of an Open Learner Model (OLM) significantly
+improves students’ problem selection decisions
+
+designed prototypes of tutor features that aim to foster
+a mastery-approach orientation as well as transfer of the learned Mastery Rule
+when the scaffolding is faded
+
+work contributes to the research of supporting SRL(Self Regulated Learning) in ITSs through a motivational design perspective
+
+
+Strategic problem selection can lead to better learning outcomes as compared to randomly selected problems
+
+For example, one ITS shares control over problem selection between students and the
+system, fostering student motivation through some student control while preventing
+the students from making decisions that are detrimental to learning
+
+Little work has investigated whether and
+how an ITS can be designed to help students learn the transferable skill of making
+problem selection decisions that can be applied when the scaffolding is not in effect.
+
+Our goal is to help students become better at self-regulating problem selection in their
+own learning, so that they can actively apply the Mastery Rule later when there is no
+ITS support for problem selection.
+
+
+Theories of SRL stipulate that effective self-regulation requires not only
+knowledge of metacognitive strategies(like Mastery Rule), but also motivations (like Badges,rewards) that foster the active use
+of the strategies
+
+how we can use motivational
+design in ITSs to help students want to use the metacognitive strategies.
+
+emphasize motivational design (like OLM)(design to foster motivations) in Lynnette to
+help students want to apply the Mastery Rule when they are given control over problem
+selection, in addition to designs (feedback messages from avatars) that help them correctly apply the rule.
+
+combined user-centered design techniques including experimentation,
+interviews, and storyboards to study how students naturally select problems in
+the tutor, what knowledge they have for the Mastery Rule as well as their motivations
+for following the rule.

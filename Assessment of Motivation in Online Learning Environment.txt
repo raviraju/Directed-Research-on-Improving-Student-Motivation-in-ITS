@@ -1,0 +1,121 @@
+Assessment of Motivation in Online Learning Environment
+
+previous approaches, most of them based on Keller’s ARCS model, 
+
+and argues for an approach based on Social Cognitive Learning Theory
+
+research plan includes two steps: 
+1) detect the learners in danger of dropping-out based on their interaction with the system;
+2) create a model of the learner’s motivation (including self-efficacy, self-regulation,
+	goal orientation, attribution and perceived task characteristics) upon which intervention can be done.
+	
+	
+assessment of motivation in two stages: 
+STAGE 1 :
+first, indirect assessment/observation – 
+	the aim of this stage is to identify learners that are in danger
+	of dropping out or giving up as early as possible using unobtrusive observation methods; 
+STAGE 2 :
+second, explicit elicitation: 
+	in order to inform a personalized and suitable intervention, the system would explicitly explore and 
+	verify the learners’ motivational level (self-efficacy, self-regulation, goal orientation, attribution, perceived
+	characteristics of the task etc).
+	
+motivation from observational cues – like mimics, posture, gesture, conversational cues etc. 
+which are difficult to be processed by adaptive systems
+much of rsrch is directed towards finding a way to assess motivation from cues that can be easily
+processed automatically (e.g. learner’s interactions with the system, time spent on a
+task, his/her statements about his/her level of motivation etc.).
+
+Three previous works
+related to Keller’s ARCS model (Keller, 1987), briefly presented here: 
+	ARCS stands
+	for Attention, Relevance, Confidence and Satisfaction. 
+	Gaining and retaining the learner’s attention is necessary for an efficient learning, 
+	relevance (of the learning content) is a condition for attention and motivation, 
+	confidence determines the level of effort invested in learning and 
+	satisfaction refers to the reward gained from the learning experience
+1)	by de Vicente & Pain (2003)
+	proposed several rules to infer motivational states from two sources: the interactions
+	of the students with the tutoring system and their motivational traits
+2)	by Qu, Wang & Johnson (2005)
+	infers three aspects of motivation – confidence, confusion and effort from several sources: the learner’s
+	focus of attention, the current task and expected time to perform the task
+	low confidence, high confusion and low effort :::: strong indicators of the student giving up
+3)  by Zhang, Cheng, He& Huang (2003)
+	also started from ARCS model and assessed two of
+	the model’s variables: attention and confidenc
+All three approaches focus on motivational states and a way to measure them
+without asking the learner
+
+The assessment of motivation classically includes either
+observation or self-report or both. 
+
+The idea of getting a system to do what humans do is a goal that seems quite far – at least when we talk about emotions, feelings,
+motivation and will. And as these aspects are important for learning, they need to be
+taken into consideration.
+
+Hence :
+our approach for the assessment of motivation is based on Social Cognitive Learning Theory and 
+especially related to self-efficacy (SE) and selfregulation (SR) concepts.
+
+SE :
+as the confidence that the individual has in his/her ability to control his/her thoughts, feelings and actions;
+more specifically, it refers to a person’s belief/ expectancy in his/her capacity to successfully complete a task.
+
+SR :
+control his/her actions
+“those processes (…) that enable an individual to guide his/her goal-directed activities over time and across
+changing circumstances (contexts)”
+
+Phase 1: the prediction of drop-outs
+	Factors in the Learning Behavior Can Predict Drop-Out?
+		Rather than directly inferring particular motivational states from the observed behavior, we propose to use behavioral cues as indicators
+		that can predict the giving-up risk.
+		These indicators related to the concept of SR include: 
+		a) browsing fast rather than reading, skipping sections, non-systematic progression, 
+		and answering questions quickly (in less time than the minimum required time for at least reading the questions). 
+		b) Another indicator is how often and how insistent the learner seeks for help from peers/instructor. 
+		c) Also if the learner is searching external content for a related topic it may be a sign of getting lost in the
+		course content; it may also be a sign of an elaboration cognitive strategy
+		
+		most intuitive and easy to use indicator is time
+			de Vicente & Pain (2003) used it to infer confidence or lack of interest, 
+			while Qu, Wang & Johnson (2005) used it to infer effort.
+			
+		We use time as a general indicator of drop-out risk:
+			a too short or a too long focus on an issue may indicate “problems”. Of course, both
+			could be due to other factors: a too short time spent on a task might be explained by a
+			good knowledge and exceeding time could be justified by factors like breaks or deep
+			thought. These situations can be clarified by asking the learner
+Phase 2: dialog-based creation of learner model.
+
+	The next step after spotting the learners in danger of giving-up is interacting with
+	them in order to identify the ones really in danger (as situations like the ones
+	mentioned above can occur) and engage them in a dialog in order to explicitly elicit
+	information about their motivation and build a learner model
+
+
+	The dialog deals with the following aspects: a) Inform and explain the learner about
+the dialog: the learners identified to be in danger of giving up will be informed by the
+system that it has noticed some “confusing” behavior and informs the learner about
+the next questions that he/she will be asked in order to identify “the problem”; b) Ask
+the learners about their SE, SR, goal-orientation (GO), attribution of their
+performance and perceived characteristics of the task at hand.
+
+To elicit the level of SE, SR and GO, adapted versions of existing questionnaires
+will be used.
+
+
+Social Cognitive Learning Theory offers a frame for a deep knowledge of a learner’s
+motivation and several possibilities for intervention. It can, thus, serve as a sound
+theoretical basis for assessment of motivation in online learning environments.
+
+
+
+
+
+
+
+
+

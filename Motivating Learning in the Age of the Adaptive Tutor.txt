@@ -1,0 +1,49 @@
+randomized controlled trials within ASSISTments, 
+	an online adaptive tutoring system that provides students with immediate feedback and teachers with powerful assessment.
+
+2 facets of my research: 
+	compelling aspects of adaptive tutoring systems is their ability to provide students with feedback at critical moments to optimize learning gains.
+	
+	the optimization of feedback delivery and 
+		problem:
+			a) Disengagement With Feedback.
+				both questions and feedback have traditionally been presented using rich text.
+				In some cases, the feedback is too dense, too simplistic, or otherwise boring.
+			b) Maladaptive Usage of Feedback
+				In other cases, students are deterred from the appropriate use of feedback because 
+				the system records binary correctness on their first attempt or action when solving a problem.
+				This can create an environment in which students avoid feedback due to the potential for penalization
+							           or instead, overuse feedback if they have already lost credit (i.e.,jumping to the answer rather than reading through a series of hints).
+			Disengaging feedback and maladaptive practices surrounding the use of feedback reduce the likelihood
+			of robust learning.
+		sol:
+			a) Enhancing Feedback through Video and Partial Credit.
+			According to Mayer’s multimedia principles for the optimal design of e-Learning environments, 
+			it is possible to use hypermedia elements (i.e., video) to promote active learning while reducing cognitive load
+			systems that make use of video tend to do so in a manner that resembles lecturing (i.e., Khan Academy) 
+			rather than content specific feedback. 
+				a novel approach is taken to embed brief (15-30 second) video snippets as feedback within the ASSISTments platform.
+			b) data mining has revealed that partial credit scoring would help 
+			to alleviate the maladaptive usage of feedback, serving to motivate student performance 
+			while simultaneously offering teachers a more robust view of student knowledge.
+		result:
+			a) a randomized controlled trial comparing video and text feedback within the realm of middle school mathematics 
+			Results suggested a significant effect of video feedback, showing enhanced performance on questions following
+			adaptive video tutoring, as well as increased efficiency in problem solving. 
+			Further, the majority of students self-reported video as a positive addition to their assignment.
+			--Additional research has since investigated the specific elements of feedback delivery (i.e., audio, graphical, textual) 
+			using motivational feedback delivered via a pedagogical agent
+			b) data mining approaches to develop and refine multiple models of partial credit scoring
+		Next Steps:
+			Next steps for the ASSISTments platform include the development of a contextual K-armed bandit
+			algorithm that will learn how and when to provide optimal feedback for each student.
+
+	the provision of student autonomy
+		problem:
+			ASSISTments is built largely around assessment, putting teachers in control of assignments and
+			leaving students with little say (a traditional approach to education). 
+			However, the
+			platform offers untapped opportunities to examine the motivational effect of choice.
+
+			Results suggested that even if feedback was not ultimately utilized, students who were prompted
+			to choose their feedback medium significantly outperformed those who were not.

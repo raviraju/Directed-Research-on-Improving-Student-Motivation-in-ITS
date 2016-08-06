@@ -1,0 +1,153 @@
+Review of previous research on motivation assessment in e-Learning systems is presented, 
+and finally 
+suggestions of how to assess the learner’s motivation during a learning activity in a WBEL system
+
+The Internet has provided various ways of learning delivery where the web can be used as a medium for education such as 
+Web-Based E-Learning (WBEL), Adaptive Hypermedia, and Intelligent Tutoring Systems.
+
+In an e-learning system, information can be delivered in two different methods. 
+The first is the asynchronous method where students can acquire knowledge at any time and in any place; 
+	they can learn following their own pace. 
+	The most popular forms of asynchronous e-learning are instructional websites, email, and forum. 
+The second is the synchronous method where the teacher and the student interact in real time, 
+	which include real-time web chats and video conferences
+	
+motivation is regarded as one of the important factors that drive student‘s performance
+
+One important challenge in asynchronous communication is drop-out rates that tend to be higher than in face-to-face settings, since learners 
+often feel isolated and levels of learning interactivity are often considered trivial
+
+However, while in tradition-al face-to-face learning and synchronous e-learning, teachers have direct contact with the learner, 
+thus being able to analyze the learner‘s whole behavior and thus can infer his/her motiva-tional state.
+But in the context of asynchronous e-learning (e.g. WBEL) motivation detection is a more challenging process [9]. 
+Information about the motivational state of the learner would allow tailoring content and enhancing the motivation of the learner.
+
+There are two types of learner‘s motivation detection model in these researches; 
+1) one of these types is applicable for research purpose only 
+	such as Derbali and colleagues researches [10, 11] where they try to use some sensors to assess learner‘s motivation, 
+2) and the other type may be applicable for the purpose of motivation detection in e-learning systems 
+	such as de Vicente [12] motiva-tion model, del Soldato [13] motivational tactics, and Qu and Johnson [14] motivational states modeling
+	
+a need for having effective web based e-learning systems that can assess learner‘s motivation in real time.
+
+
+Motivational Theories
+Eccles and Wigfield [17] see the study of motivation as the study of action. 
+For example, a stu-dent who studies hard may be described as highly moti-vated‘, while a student who is lowly motivated‘ may not study hard. 
+Thus it seems that motivation can have an influ-ence on student‘s behavior
+
+
+several attempts that try to categorize these theories.
+
+1) According to Weiner there are 2 main types of motivational theories: mechanistic theories and theories based on a cognitive approach.
+	1.1 Mechanistic theories 
+		are based on the idea that a human works as a machine where their motivation is based on needs, drives and instincts.
+	1.2 Cognitive theories 
+		human motivation is based on thoughts and beliefs, therefore, they have choices with regards to their ac-tions
+2) Eccles and Wigfield [17] classify motivational theories into four categories.
+	2.1 focuses on beliefs about competence and expectancy for success (self-efficacy theory and control theories).
+	2.2 focuses on the rea-sons why individuals engage in different activities; 
+	2.3 combines expectancy and value constructs (attribution theory, modern expectancy-value theo-ries, self-worth theory)
+	2.4 describes links between motivational and cognitive process
+
+Methaneethorn [18] states that these motivation theories focus on identifying factors that are likely to influence motivation, 
+and different theories focus on different factors
+
+
+the theory of motivation that has been widely accepted by researchers in the e-learning field is that of Keller [20].
+Keller created a theory of motivation and also, built a model named as Keller‘s ARCS [21] to design and incorporate motivation in 
+instruction. The acronym ARCS is derived from four categories of motivational factors Attention, Relevance, Confidence, and Satisfaction.
+
+ARCS:
+Attention:
+	Attention (interest), which refers to gaining attention, building curiosity, and sustaining active engagement in the learning activity.
+	three sub-level categories: 
+		perceptual arousal, inquiry arousal, and variability.
+Relevance:
+	which includes concepts and strategies that es-tablish connections between the instructional environment and the learners‘ needs and wants
+	three sub-level categories: 
+		goal orientation, motive matching, and familiarity
+Confidence:
+	which incorporates variables re-lated to students‘ feelings of personal control and expectancy for success
+	three sub-level categories: 
+		learn-ing requirements, success opportunities, and personal control.
+Satisfaction:
+	which comes from being able to see the impact of learn-ing
+	three sub-level categories: 
+		natural con-sequences, positive consequences, and equity
+		
+		
+In WBEL this time variables can be measured easily by tracking learner activity.
+In this way, the barriers(range may be identi fied by the teacher (e.g. minimum and maximum time to per-form the task)) imposed by the need 
+of the range for time variables may dis-appear in the WBEL environmen
+
+
+This paper proposes that motivation can be assessed in WBEL in real time by taking into consideration motivational factors such as: 
+confidence, effort, and engagement
+
+how these factors can be assessed is presented :
+Modeling Confidence
+	According to De Vicente [27] confidence refers to ―the stu-dent‘s belief in being able to perform the task at hand correctly
+	In e-learning, student confidence/competence was meas-ured using self reports questionnaire and dialog based interac-tion.
+	Although this way may be very good to infer learn-er‘s confidence level, it‘s too boring to answer questionnaires frequently.
+
+	According to Del Soldato [13], less confident learners are likely to: 
+	1) Avoid tasks perceived as difficult; or 
+		detected by interaction between the tutor and the student such as present the student with options of answers that explicitly
+		mention the difficulty of the task (e.g. ―No, thanks, it is too difficult‖, ―I prefer an easier problem
+	2) Give up a task before attempting to perform it
+		Possibility of student giving up can be defined in terms of help requests and the number of steps in the problem solving process.	
+		
+	Time is a good indicator of student confidence but it‘s not always accurate, 
+	for example if learner takes less time in performing task it‘s an indicator of high confidence but maybe the opposite is true;
+	he/she rushing because the task is too difficult and he/she have low confidence.
+	Therefore we need to ask the learner about his level of confidence.
+
+	Qu and Johnson [14] state that there are three major sources of information for a human tutor to infer learner‘s confidence: 
+	1) the learner‘s hesitancy in performing actions after reading the tutorial; 
+	2) the history of task performance (for example, how many tasks the learner has successfully completed.); and 
+	3) the frequency of the learner‘s requests for help on certain tasks. 
+		For example, if the learners perform the task after read-ing the tutorial without much hesitancy, this implies that they must have 
+		high confidence.
+		
+	we propose to use the time variable as indicators for student confidence combined with other indicators such as help requests 
+	and the number of steps in the problem solving process. 
+	Additionally dialog based interaction may be used in more complicated situation.
+
+Modeling Effort
+
+	According to De Vicente [27] effort refers to the amount of work that the student is doing in order to perform the learning activities.
+	De Vicente used the level of student giving up and student performance as indicators for student effort level
+	
+	Del Soldato [13] tries to classifying students‘ effort as a function of their persistence to solve the problem and
+	requests for help to perform the task. 
+		he assumed that persistence to solve the problem can be measured through the number of attempts to get a solution, 
+		or steps performed, so that many steps reflects a greater degree of effort from the student. 
+		
+		In addition to the number of steps performed, a student who requests hints from the tutor or accepts help offered by the tutor 
+		spends less effort than students who try to perform the task on their own.
+		
+	propose to use the time variable such as time spent on the task as indicators for student effort while other indicators 
+	such as the number of attempts to complete a task and requests for help to perform the task may also be combined as indicators.
+
+Modelling Engagement
+	Cocea proposed to use behavioral cues detection as indicators for disengage-ment such as 
+	browsing fast rather than reading, 
+	skipping sec-tions, 
+	non-systematic progression, and 
+	answering questions quickly (in less time than the minimum required time for at least reading the questions).
+	
+	propose to use cues as indicators for en-gagement/disengagement to include browsing fast rather than reading, skipping sections, and
+	time to perform the task or answering the questions.
+
+
+
+
+
+
+
+
+
+
+
+

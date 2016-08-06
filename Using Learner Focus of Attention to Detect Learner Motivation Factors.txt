@@ -1,0 +1,72 @@
+paper presents a model 
+	-for pedagogical agents to use the learner’s attention to detect motivation factors of the learner
+	-based on observations from human tutors
+	-to create pedagogical agents that are able to interact with learners in more socially appropriate ways, sensitive
+		to rules of politeness and etiquette and able to influence the learner motivational as well
+		as cognitive state
+	
+A Bayesian model is used to combine evidence from 
+	the learner’s eye gaze 
+	and  +
+	interface actions 
+	= to infer the learner’s focus of attention.
+
+plan recognizer uses (has capability for interpreting the learner’s actions and forming expectations of future actions.)
+	learner’s focus of attention.
+	+
+	information about the learner’s activities
+	= detect the learner’s motivation factors such as degree of confidence, confusion and effort.
+	
+
+Description of Model
+	• The focus of attention model takes input from the WebTutor interface, the VFTS
+	interface and Agent interface as well as eye gaze information, in order to infer
+	learner focus of attention.
+	• The detection model calculates the learner motivational factors based on outputs
+	from focus of attention model and plan recognizer.
+
+3.1 Tracking Learner Focus of Attention Under Uncertainty
+	The agent uses two types of information to infer the learner’s focus: 
+	(1) information with certainty, i.e., mouse click, type and scroll window events in VFTS, WebTutor and
+	Agent Window, and 
+	(2) information with uncertainty, namely data from eye track
+	program and inferences about current state based upon past events. 
+
+	Then agents use
+	Dynamic Bayesian Networks (DBNs) to infer the learner’s focus of attention based on
+	various sources of information.
+	
+3.2 Plan Recognition System
+	To help pedagogical agents track learner activities, we need to be able to track the
+	learner’s actions as well as track the learner’s focus. We developed a plan recognition
+	system to track learner actions and progress.
+
+3.3 Utilizing Focus of Attention
+	There are many factors that influence learner’s motivation.
+	focus here on the
+	learner’s confidence, confusion and effort,( factors that were shown to be important in the background tutor studies.)
+	• Confidence represents the confidence of learners in solving problems in the
+	learning environment. The learner’s confidence is modeled as one of three levels:
+	High, Normal and Low.
+	• Confusion reflects the learner’s failing to understand the tutorial or deicide how
+	to proceed in the VFTS. A learner with high confusion is most likely to be stuck
+	or frustrated.
+	• Effort is the duration of time that the learner spends on performing tasks. It is an
+	important indicator of intrinsic motivation in learners, and expert human tutors
+	often praise learners for expending effort even when they are not successful.
+
+BASELINE				Confidence			Confusion		Effort
+With the human
+tutor's observation		 82% 				76.8% 			 76.3% 
+With the learner’s 
+self-reports			70.7%, 				75.6% 			 73.2% 
+
+
+
+
+
+
+
+
+
+

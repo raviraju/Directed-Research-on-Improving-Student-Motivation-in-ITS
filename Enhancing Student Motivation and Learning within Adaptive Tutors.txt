@@ -1,0 +1,75 @@
+1. RESEARCH FOCUS
+1.1 Adaptive Tutoring: ASSISTments
+there remains a severe lack of research regarding the effectiveness of online learning systems for K-12 education
+
+Students
+	Adaptive tutoring systems offer interactive learning environments that allow students to excel while providing teachers a unique
+	approach to classroom organization and data-driven lesson plans.
+Teachers
+	The platform is also a powerful assessment tool,
+	providing teachers with a variety of student and class reports that
+	pinpoint where students are struggling and enhance classroom
+	techniques using real time data.
+Edu-RESEARCHs
+	the platform is unique in
+	that it allows educational researchers to design and implement
+	content-based experiments without extensive understanding of
+	computer programming, serving as a shared collaborative tool for
+	the advancement of the science of learning
+
+	
+Essentially, my work seeks to 
+enhance student motivation and performance by enriching content through optimized feedback delivery,
+1.2.1 Feedback Mediums
+	Until recently, virtually all feedback within the ASSISTments
+	tutoring platform was provided using text, typically with font
+	color or typeset signifying important variables
+	
+	the introduction of matched content video feedback to the
+	ASSISTments platform through brief 15-30 second YouTube
+	recordings offered a novel approach to investigating hypermedia
+	within an adaptive setting
+	
+	controlled trial in ASSISTments, Results suggested significant effects of video feedback, showing enhanced
+	learning outcomes on next question performance after receiving
+	adaptive video tutoring, as well as increased efficiency.
+
+exploring opportunities to make students shareholders in the learning process, and 
+1.2.2 Student Choice (Control-value theory in realm of education)
+	Choice is an intrinsically motivating force that has the potential to boost subjective control,
+	
+	By providing the student with choices at the start of her assignment, it may be possible to enhance
+	expectancies regarding her performance and thereby enhance achievement emotions such as motivation
+	
+	Feedback medium personalization offers one simple method to examine the
+	motivational effect of choice within these platforms.
+	
+	Those given choice were asked to select their feedback medium, while those without choice were
+	randomly assigned to receive either text or video feedback.
+	Results suggested that even if feedback was not ultimately used, students who were prompted to choose their feedback medium
+	significantly outperformed those who were not.
+
+attempting to boost motivation and proper system usage through improved assessment techniques
+1.2.3 Improving Assessment(Partial Credit)
+	Adaptive tutoring systems typically function through measures of binary correctness on a student’s first attempt or first action within
+	a problem. 
+	Within such systems, students who take advantage of tutoring feedback are unduly penalized.  
+
+	This creates an environment in which students are afraid to use the beneficial features of these platforms, or instead, overuse feedback if they
+	have already lost credit (i.e., skipping to the answer rather than reading a series of hints). 
+
+	The establishment of partial credit scoring would help to alleviate these issues, serving to motivate
+	student performance while simultaneously offering teachers a more robust view of student knowledge.
+
+
+
+
+
+
+
+
+
+
+
+
+
